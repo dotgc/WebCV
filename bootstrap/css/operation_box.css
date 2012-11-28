@@ -1,0 +1,61 @@
+
+.obox {
+	width: 170px;
+	min-height: 250px;
+	padding:0px;
+}
+
+.obox a {
+	text-decoration: none;
+}
+
+.obox_header {
+	position: relative;
+	height: 30px;
+	border-bottom: 1px solid #afafaf;
+	padding-bottom:3px;
+	margin-bottom:10px;
+}
+
+.obox_header h3 {
+	padding-left:30px;
+	font-size: 16px;
+}
+
+.obox_back {
+	position: absolute;
+	left: 5px;
+	top: 10px;
+}
+
+.obox ul {
+	padding: 0px;
+	margin: 0px;
+	margin-bottom: 7px;
+}
+
+.obox li {
+	list-style-type: none;
+	padding-left: 15px;
+	padding-top: 3px;
+	height: 25px;
+	margin-bottom: 3px;
+	color: #333;
+}
+
+.obox li:hover {
+	padding-left: 10px;
+	border-left: 5px solid black;
+	cursor: pointer;
+	background: #efefef;
+	font-weight: bold;
+}
+
+.obox label {
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.obox_input {
+	width: 150px;
+}

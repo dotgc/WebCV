@@ -1,0 +1,1 @@
+./output uploads/local/127.0.0.1-DSC00007.JPG uploads/local/832lp5m2ye127.0.0.1-DSC00007.JPG 6
